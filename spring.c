@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define MAX_WORKERS_PER_DAY 3
+
 // Function to print the contents of the file with all workers and their days of work
 void printFileContents(char *fileName)
 {
