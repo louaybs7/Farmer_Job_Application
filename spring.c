@@ -1,18 +1,4 @@
 #include <stdio.h>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #include <stdlib.h>
 #include <string.h>
 #define MAX_WORKERS_PER_DAY 3
