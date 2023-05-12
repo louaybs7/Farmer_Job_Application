@@ -5,6 +5,11 @@
 // Function to print the contents of the file with all workers and their days of work
 void printFileContents(char *fileName)
 {
+    
+    
+    
+    
+    
     FILE *file = fopen(fileName, "r");
     if (file == NULL)
     {
