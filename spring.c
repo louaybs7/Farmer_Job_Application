@@ -6,10 +6,6 @@
 void printFileContents(char *fileName)
 {
     
-    
-    
-    
-    
     FILE *file = fopen(fileName, "r");
     if (file == NULL)
     {
